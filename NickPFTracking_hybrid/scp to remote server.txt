@@ -1,0 +1,18 @@
+1.local folder -> remote folder
+----------------------------------------------------------------------
+Upload local folder named: "NickPFTracking_RGBMPI_hybrid" -> 
+remote server at  the folder named "xudong" in "feng.gu@chizen.csi.cuny.edu:/scratch/feng.gu/"
+
+scp -r /Users/nick/Desktop/NickPFTracking_RGBMPI_hybrid/ feng.gu@chizen.csi.cuny.edu:/scratch/feng.gu/hybrid/
+
+------------------------------------------------------------------------
+
+
+2. Remote folder -> another remote folder.
+------------------------------------------------------------------------
+Transferring folder named: "NickPFTracking_RGBMPI_hybrid" in one remote location -> 
+remote server at  the folder named "xudong" in "feng.gu@chizen.csi.cuny.edu:/scratch/feng.gu/"
+
+
+scp -r /scratch/feng.gu/hybrid/ feng.gu@penzias.csi.cuny.edu:/scratch/feng.gu/xudong/
+------------------------------------------------------------------------
