@@ -2,9 +2,9 @@
 This is the C++ code for object tracking with particle filtering algorithm with adaptive and hybrid techniques.
 The filtering algorithm is able to track the objects without training.
 
-2. /NickPFTracking_hybrid/ contains the C++ code for object tracking with hybrid resampling algorithm.
-3. /NickPFTracking_adaptive/ contains the C++ code for object tracking with adaptive resampling algorithm. In adaptive algorithm, the adaptive ratio needs to be predefined. 
-4. The features of the targets can be defined for object tracking.
+1. /NickPFTracking_hybrid/ contains the C++ code for object tracking with hybrid resampling algorithm.
+2. /NickPFTracking_adaptive/ contains the C++ code for object tracking with adaptive resampling algorithm. In adaptive algorithm, the adaptive ratio needs to be predefined. 
+3. The features of the targets can be defined for object tracking.
 
 ## usage
 The code was tested on Mac and linux platorms.
