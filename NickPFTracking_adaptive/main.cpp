@@ -1,4 +1,5 @@
 /*!
+ * Copyright by Xudong Zhang, City University of New York.
  * 1. $ export TMPDIR=/tmp
  * 2. mpicxx main.cpp `pkg-config opencv --libs` -w
  * 3.  mpirun -np 4 ./a.out 10  // 4: use 4 cores, a.out: executed file, 10: 10 particles per core.
