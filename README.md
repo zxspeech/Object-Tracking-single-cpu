@@ -6,6 +6,11 @@ The filtering algorithm is able to track the objects without training.
 2. /NickPFTracking_adaptive/ contains the C++ code for object tracking with adaptive resampling algorithm. In adaptive algorithm, the adaptive ratio needs to be predefined. 
 3. The features of the targets can be defined for object tracking.
 
+https://github.com/Solarbird2017/Object-Tracking-single-cpu/blob/main/11.png
+https://github.com/Solarbird2017/Object-Tracking-single-cpu/blob/main/21.png
+https://github.com/Solarbird2017/Object-Tracking-single-cpu/blob/main/31.png
+https://github.com/Solarbird2017/Object-Tracking-single-cpu/blob/main/41.png
+
 ## usage
 The code was tested on Mac and linux platorms.
 1. install OpenCV.
