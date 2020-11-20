@@ -19,5 +19,8 @@ The code was tested on Mac and linux platorms. You have to install the following
 
 The matalb code in ./LabelingMatlabProgram/LabelingGT.m allow you to manually label the targets from a piece of video and save the labeled position of target in a txt file. The C++ program in ./PFTracking_adaptive and ./PFTracking_hybrid can read the txt file and compare it with the estimation position to calculate the accuracy (RMSE error).
 
+## License
+The code is released under MIT License (see LICENSE file for details).
+
 
 
