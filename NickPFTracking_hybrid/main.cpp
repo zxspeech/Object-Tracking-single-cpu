@@ -1,3 +1,5 @@
+// Copyright by Xudong Zhang, City University of New York.
+
 #include "mpi.h"
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
