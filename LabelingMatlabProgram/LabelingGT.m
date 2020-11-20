@@ -1,3 +1,4 @@
+%%Copyright by Xudong Zhang, City University of New York.
 %% Create mV_pM.mat.
 clear all;
 clc;
