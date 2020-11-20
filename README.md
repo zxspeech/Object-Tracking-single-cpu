@@ -11,12 +11,9 @@ The filtering algorithm is able to track the objects without training.
 
 
 ## usage
-The code was tested on Mac and linux platorms.
+The code was tested on Mac and linux platorms. You have to install the following libraries before running the program.
 1. install OpenCV.
-2. install OpenMPI
-3. export TMPDIR=/tmp
-4. mpicxx main.cpp `pkg-config opencv --libs` -w
-5. mpirun -np 4 ./a.out 10  // 4: use 4 cores, a.out: executed file, 10: 10 particles per core.
+2. install OpenMPI.
 
 ## Tracking accuracy
 
